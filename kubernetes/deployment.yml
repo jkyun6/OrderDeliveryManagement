@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: orderdeliverymanagement
-          image: skcc12acr.azurecr.io/orderdeliverymanagement:latest
+          image: skcc14acr.azurecr.io/orderdeliverymanagement:latest
           ports:
             - containerPort: 8080
